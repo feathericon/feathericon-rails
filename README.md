@@ -30,17 +30,14 @@ Or install it yourself as:
 $ gem install feathericon-rails
 ```
 
-## Require or Import
+## Require
 
 Add this line to your `app/assets/stylesheets/application.css`:
 ```css
 *= require feathericon
 ```
 
-If you use Sass, add this line to your `app/assets/stylesheets/application.scss`:
-```scss
-@import "feathericon";
-```
+If you use Sass, check https://github.com/feathericon/feathericon-sass
 
 ## License
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
