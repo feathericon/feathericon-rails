@@ -1,8 +1,17 @@
-# Feathericon::Rails
-Short description and motivation.
+
+![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_ogp.png "feathericon")
+
+<h1 align="center">feathericon</h1>
+<p align="center">feathericon is simple, scalable vector icon font for websites, apps.</p>
+<p align="center">Website: <a href="http://feathericon.com">http://feathericon.com</a></p>
 
 ## Usage
-How to use my plugin.
+
+Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](http://feathericon.com) to start using icons!
+
+  ```html
+  <i class="fe fe-heart"></i>
+  ```
 
 ## Installation
 Add this line to your application's Gemfile:
