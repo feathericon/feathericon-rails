@@ -21,6 +21,18 @@ Or install it yourself as:
 $ gem install feathericon-rails
 ```
 
+## Require or Import
+
+Add this line to your `app/assets/stylesheets/application.css`:
+```css
+*= require feathericon
+```
+
+If you use Sass, add this line to your `app/assets/stylesheets/application.scss`:
+```scss
+@import "feathericon";
+```
+
 ## Contributing
 Contribution directions go here.
 
