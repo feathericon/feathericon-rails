@@ -4,6 +4,7 @@ See [GitHub Releases](https://github.com/feathericon/feathericon-rails/releases)
 
 | Version | feathericon | Notes / Other additions                                            |
 |---------|-------------|--------------------------------------------------------------------|
+|   0.11.0 | `d4be9d0`  | [0.11.0](https://github.com/feathericon/feathericon/releases/tag/0.11.0) Add new icons |
 |   0.9.0 | `86613d6`   | [0.9.3](https://github.com/feathericon/feathericon/releases/tag/0.9.3) Add new icons |
 |   0.7.0 | `a805673`   | [0.7.1](https://github.com/feathericon/feathericon/releases/tag/0.7.1) Add Brand icons, Resize icon size from 16px to 14px |
 |   0.6.0 | `0b31aa8`   | [0.6.0](https://github.com/feathericon/feathericon/releases/tag/0.6.0) Redesign "Web App" icons [#45](https://github.com/feathericon/feathericon/issues/45) |
